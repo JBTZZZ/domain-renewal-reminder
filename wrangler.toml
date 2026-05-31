@@ -51,4 +51,3 @@ database_id = "placeholder"
 [[env.dev.kv_namespaces]]
 binding = "KV"
 id = "placeholder"
-.
